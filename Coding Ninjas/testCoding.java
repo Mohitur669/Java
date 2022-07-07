@@ -4,20 +4,30 @@ public class testCoding {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         int n = s.nextInt();
-        int i = 1;
-        while (i <= n) {
-            int j = 1;
-            while (j <= n-i) {
-                System.out.print(" ");
-                j++;
+        int prev = s.nextInt();
+        int count = 2, current;
+        boolean isDec = true;
+        while (count <= n) {
+            current = s.nextInt();
+            count++;
+            //now we start to check the sequence
+            if (current == prev) {
+                System.out.println("false"); //if 2 numbers are equal we simply exit the loop
+                return;
+
+            } else if (current < prev) {
+                if (isDec == false) {
+                    System.out.println("false");
+                    return;
+                }
+            } else {
+                if (isDec == true) {
+                    isDec = false;
+                }
+
             }
-            j = 1;
-            while (j<=i){
-                System.out.print("*");
-                j++;
-            }
-            System.out.println();
-            i++;
+            prev = current;
         }
+        System.out.println("true");
     }
 }
