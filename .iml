@@ -7,6 +7,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Java Kunal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Kunal Assignments" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Self Practice" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Patterns" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/PDF" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

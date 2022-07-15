@@ -1,15 +1,15 @@
 import java.util.Scanner;
 
 public class squareRoot {
+    public static int[] change(int input[]){
+        input = new int[5];
+        input[0] = 15;
+        return input;
+    }
 
-    public static void main(String[] args) {
-        // Write your code here
-        Scanner s = new Scanner(System.in);
-        int n = s.nextInt();
-        int i=1;
-        while(i*i<=n){
-            i++;
-        }
-        System.out.println(i-1);
+    public static void main(String args[]){
+        int arr[] = new int[5];
+        arr=change(arr);
+        System.out.println(arr[0]);
     }
 }
