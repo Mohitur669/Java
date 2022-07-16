@@ -8,7 +8,11 @@
       <sourceFolder url="file://$MODULE_DIR$/Kunal Assignments" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Self Practice" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Patterns" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Ninja" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coding Ninja/Array" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/PDF" />
+      <excludeFolder url="file://$MODULE_DIR$/Coding Ninjas PDF" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
