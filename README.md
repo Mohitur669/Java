@@ -9,9 +9,12 @@ Hi, I am Mohd Mohitur Rahaman, student of MCA at Kalinga Institute of Industrial
 
 ## Resources
 This is the resources I use for learning Java and DSA:
-- [Kunal Kushwaha](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+- [Kunal Kushwaha](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) (Free)
 
-- [Coding Ninjas](https://www.codingninjas.com/courses/java-data-structures-and-algorithms)
+- [Coding Ninjas Combo](https://www.codingninjas.com/courses/java-data-structures-and-algorithms) (Paid)
+
+To grab additional discount in Coding Ninja use this [link](https://www.codingninjas.com/?referralCode=UQFSI).
+
 
 ## Feedback
 
