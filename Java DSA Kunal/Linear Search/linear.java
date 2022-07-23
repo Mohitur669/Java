@@ -1,10 +1,10 @@
 public class linear {
 
-//    works in both sorted and unsorted array
+    //    works in both sorted and unsorted array
     public static void main(String[] args) {
         int[] numbers = {2, 3, 34, 5, 56, 6, 78, 8, 6, 43, 32};
         int target = 5;
-        boolean ans = linearSearch3(numbers, target);
+        int ans = linearSearch(numbers, target);
         System.out.println(ans);
     }
 

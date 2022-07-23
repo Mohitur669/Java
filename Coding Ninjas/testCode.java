@@ -1,22 +1,26 @@
+import java.util.Scanner;
 
 public class testCode {
     public static void main(String[] args) {
-//        int[] arr = {7, 2, 5, 4, 4, 1, 3, 6};
-//        System.out.println(findUnique(arr));
+        StringBuffer str1 = new StringBuffer("");
+        for (int i = 0; i < 5; i++) {
+            str1.append((char) ('a' + i));
+        }
+        System.out.println(str1);
     }
 
-//    static int findUnique(int[] arr) {
-////        int n = arr.length;
-//        for (int i = 0; i < n; i++) {
-//            int j;
-//            for (j = 0; j < n; j++) {
-//                if (i != j) {
-//                    if (arr[i] == arr[j]) {
-//                        return arr[i];
-//                    }
-//                }
-//            }
-//        }
-//        return Integer.MAX_VALUE;
-//    }
+    public static int countWords(String str) {
+        //Your code goes here
+        int count = 1;
+        if (str.length() == 0) {
+            return 0;
+        }
+        for (int i = 0; i < str.length(); i++) {
+            if (str.charAt(i) == ' ') {
+                count++;
+            }
+        }
+        return count;
+    }
+
 }

@@ -5,7 +5,7 @@ public class ceilingOfNumber {
     */
     public static void main(String[] args) {
         int[] arr = {-12, -10, -4, 0, 1, 2, 3, 4, 67, 87, 98};
-        int target = 99;
+        int target = -3;
         int ans = ceilingNumber(arr, target);
         System.out.println(ans);
     }
@@ -20,7 +20,7 @@ public class ceilingOfNumber {
         while (start <= end) {
             int mid = start + (end - start) / 2;
             if (target == arr[mid]) {
-                return mid;
+                return arr[mid];
             }
             if (target > arr[mid]) {
                 start = mid + 1;
@@ -28,6 +28,6 @@ public class ceilingOfNumber {
                 end = mid - 1;
             }
         }
-        return start;
+        return arr[start];
     }
 }

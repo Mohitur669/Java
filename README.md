@@ -13,7 +13,7 @@ This is the resources I use for learning Java and DSA:
 
 - [Coding Ninjas Combo](https://www.codingninjas.com/courses/java-data-structures-and-algorithms) (Paid)
 
-To grab additional discount in Coding Ninja use this [link](https://www.codingninjas.com/?referralCode=UQFSI).
+To grab additional discounts in all Coding Ninjas courses use this [link](https://www.codingninjas.com/?referralCode=UQFSI).
 
 
 ## Feedback
