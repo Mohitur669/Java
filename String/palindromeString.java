@@ -6,7 +6,7 @@ public class palindromeString {
 
     public static boolean isPalindrome(String str) {
         String reverseString = reverse(str);
-        if (str.equals(reverseString) == true) {
+        if (str.equals(reverseString)) {
             return true;
         }
         return false;
