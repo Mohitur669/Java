@@ -12,6 +12,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Coding Ninja" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Coding Ninja/Array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array 2D" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CN Tests" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Test 01" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/PDF" />
       <excludeFolder url="file://$MODULE_DIR$/Coding Ninjas PDF" />
     </content>

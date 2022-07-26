@@ -1,8 +1,8 @@
 public class secondLargestElementInArray {
     public static void main(String[] args) {
-        int arr1[] = {2, 6, 4, 1, 6};
-        int arr2[] = {2, 3, 3, 2};
-        int arr3[] = {2, 2, 2, 2};
+        int[] arr1 = {2, 6, 4, 1, 6};
+        int[] arr2 = {2, 3, 3, 2};
+        int[] arr3 = {2, 2, 2, 2};
         System.out.println(secondLargestElement(arr2));
     }
 
