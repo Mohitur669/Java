@@ -15,6 +15,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Array 2D" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CN Tests" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Test 01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Test 02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OOPS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Recursion" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/PDF" />
       <excludeFolder url="file://$MODULE_DIR$/Coding Ninjas PDF" />
     </content>

@@ -15,7 +15,7 @@ public class palindromeString {
     static String reverse(String str) {
         String reverseString = "";
         for (int i = str.length() - 1; i >= 0; i--) {
-            reverseString += str.charAt(i);
+            reverseString = reverseString + str.charAt(i);
         }
         return reverseString;
     }

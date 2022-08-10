@@ -3,11 +3,11 @@ import java.util.Arrays;
 public class bubble {
     public static void main(String[] args) {
         int[] arr = {5, 4, 3, 2, 1};
-        bubble(arr);
+        bubbleSort(arr);
         System.out.println(Arrays.toString(arr));
     }
 
-    static void bubble(int[] input) {
+    static void bubbleSort(int[] input) {
         for (int i = 0; i < input.length - 1; i++) {
             for (int j = 0; j < input.length - i - 1; j++) {
                 if (input[j] > input[j + 1]) {
