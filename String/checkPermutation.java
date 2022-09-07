@@ -30,7 +30,7 @@ public class checkPermutation {
             return false;
         }
         //creates a new integer frequency array
-        int frequency[] = new int[256];
+        int[] frequency = new int[256];
         //initialize every element of frequency array to zero
 //        for (int i = 0; i < 256; i++) {
 //            frequency[i] = 0;
