@@ -6,13 +6,15 @@
 // You need to find and return that duplicate number present in the array.
 // Note: Duplicate number is always present in the given array/list.
 
+import java.util.Arrays;
+
 public class findDuplicateElement {
     public static void main(String[] args) {
         int[] arr = {7, 2, 5, 4, 7, 1, 3, 6};
-        System.out.println(findDuplicate(arr));
+        System.out.println(duplicate(arr));
     }
 
-    static int findDuplicate(int[] arr) {
+    public static int findDuplicate(int[] arr) {
         int n = arr.length;
         for (int i = 0; i < n; i++) {
             int j;
@@ -25,5 +27,16 @@ public class findDuplicateElement {
             }
         }
         return Integer.MAX_VALUE;
+    }
+
+    //better time and space complexity
+    public static int duplicate(int[] arr) {
+        int i = 0;
+        Arrays.sort(arr);
+        for (i = 0; i < arr.length; i++) {
+            if (arr[i] == arr[i + 1])
+                break;
+        }
+        return arr[i];
     }
 }

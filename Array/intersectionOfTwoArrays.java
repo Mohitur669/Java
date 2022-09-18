@@ -6,14 +6,35 @@
 // Note: Input arrays/lists can contain duplicate elements.
 //       The intersection elements printed would be in the order they appear in the first array/list(ARR1)
 
+import java.util.Arrays;
+
 public class intersectionOfTwoArrays {
     public static void main(String[] args) {
         int[] arr1 = {1, 2, 3, 4, 5};
         int[] arr2 = {4, 5, 6, 7, 8, 9};
-        int n1 = arr1.length;
-        int n2 = arr2.length;
-        for (int i = 0; i < n1; i++) {
-            for (int j = 0; j < n2; j++) {
+        intersectionArrays(arr1, arr2);
+    }
+
+    public static void intersectionArrays(int[] arr1, int[] arr2) {
+        Arrays.sort(arr1);
+        Arrays.sort(arr2);
+        int i = 0, j = 0;
+        while (i < arr1.length && j < arr2.length) {
+            if (arr1[i] == arr2[j]) {
+                System.out.print(arr1[i] + " ");
+                i++;
+                j++;
+            } else if (arr1[i] < arr2[j]) {
+                i++;
+            } else {
+                j++;
+            }
+        }
+    }
+
+    public static void intersection(int[] arr1, int[] arr2) {
+        for (int i = 0; i < arr1.length; i++) {
+            for (int j = 0; j < arr2.length; j++) {
                 if (arr1[i] == arr2[j]) {
                     System.out.print(arr1[i] + " ");
                     arr2[j] = Integer.MIN_VALUE;
@@ -22,4 +43,6 @@ public class intersectionOfTwoArrays {
             }
         }
     }
+
+    // better time and space complexity
 }

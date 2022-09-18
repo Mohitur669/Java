@@ -1,10 +1,16 @@
 public class mergeRecursion2 {
+    // the startTime and endTime variable was created for Time Complexity video.
+    // It calculates the time taken by the algorithm
     public static void main(String[] args) {
         int[] arr = {1, 4, 5, 6, 78, 7, 5, 3, 1, 4, 6, 88,};
+        long startTime = System.currentTimeMillis();
         mergeSort(arr);
+        long endTime = System.currentTimeMillis();
         for (int i = 0; i < arr.length; i++) {
             System.out.print(arr[i] + " ");
         }
+        System.out.println();
+        System.out.println("Time by merge sort taken is: " + (endTime - startTime)+ "ms");
     }
 
     public static void mergeSort(int[] input) {
@@ -25,7 +31,6 @@ public class mergeRecursion2 {
             part2[k] = input[i];
             k++;
         }
-
         mergeSort(part1);
         mergeSort(part2);
         merge(input, part1, part2);

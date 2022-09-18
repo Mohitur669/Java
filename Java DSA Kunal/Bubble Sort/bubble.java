@@ -9,6 +9,8 @@ public class bubble {
 
     static void bubbleSort(int[] input) {
         for (int i = 0; i < input.length - 1; i++) {
+            // everytime the j-loop completes, the largest element is sorted to the last
+            // so, we do not need to sort last elements next time, so we are using input.length - i - 1 as a limit
             for (int j = 0; j < input.length - i - 1; j++) {
                 if (input[j] > input[j + 1]) {
                     int temp = input[j];
