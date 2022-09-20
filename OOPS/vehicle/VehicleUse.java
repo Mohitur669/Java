@@ -4,8 +4,8 @@ import vehicle_temp.Truck;
 
 public class VehicleUse {
     public static void main(String[] args) {
-        Vehicle car = new Vehicle();
-        car.color = "Matte Black";
+//        Vehicle car = new Vehicle();
+//        car.color = "Matte Black";
 //        car.print();
         Car c = new Car();
         c.numGears = 2;
@@ -21,9 +21,9 @@ public class VehicleUse {
         truck1.maxLoadingCapacity = 5;
         truck1.setMaxSpeed(14);
         c.setMaxSpeed(10);
-        car.setMaxSpeed(56);
+//        car.setMaxSpeed(56);
         c.print();
         truck1.print();
-        car.print();
+//        car.print();
     }
 }

@@ -1,6 +1,6 @@
 # Programming in Java
 
-Hi, I am Mohd Mohitur Rahaman, a 1st year student of MCA Department at Kalinga Institute of Industrial Technology (KIIT). I have started to learn Java since last month (27th June,22). So, I created this repo to share what I learned and also to provide some solutions for popular problems along my  learning journey. If you want to contribute or can optimize any code further, then please create a pull request.
+Hi, I am Mohd Mohitur Rahaman, a 1st-year student in the MCA Department at Kalinga Institute of Industrial Technology (KIIT). I started to learn Java last month (27th June,22). So, I created this repository to share what I learned and also to provide some solutions for popular problems along with .my learning journey. If you want to contribute or can optimize any code further, then please create a pull request.
 
 ## Authors
 
