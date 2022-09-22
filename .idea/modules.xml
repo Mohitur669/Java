@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.iml" filepath="$PROJECT_DIR$/.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Coding Ninja/Coding Ninja.iml" filepath="$PROJECT_DIR$/Coding Ninja/Coding Ninja.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java DSA Kunal/Java DSA Kunal.iml" filepath="$PROJECT_DIR$/Java DSA Kunal/Java DSA Kunal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Algorithms.iml" filepath="$PROJECT_DIR$/Algorithms/Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structures/Data Structures.iml" filepath="$PROJECT_DIR$/Data Structures/Data Structures.iml" />
     </modules>
   </component>
 </project>

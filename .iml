@@ -3,24 +3,19 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array 2D" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Coding Ninjas" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Java Kunal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Kunal Assignments" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Self Practice" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Patterns" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Array" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Coding Ninja" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Coding Ninja/Array" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/String" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Array 2D" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/CN Tests" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Test 01" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Test 02" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/OOPS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Patterns" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Recursion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Self Practice" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Test 01" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Test 01 DSA" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/PDF" />
-      <excludeFolder url="file://$MODULE_DIR$/Coding Ninjas PDF" />
+      <sourceFolder url="file://$MODULE_DIR$/Test 02" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
