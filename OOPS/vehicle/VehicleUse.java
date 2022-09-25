@@ -5,7 +5,7 @@ import vehicle_temp.Truck;
 public class VehicleUse {
     public static void main(String[] args) {
 //        Vehicle car = new Vehicle();
-//        car.color = "Matte Black";
+//        car.color = "Matte Black";zz
 //        car.print();
         Car c = new Car();
         c.numGears = 2;
