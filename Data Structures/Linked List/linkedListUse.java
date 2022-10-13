@@ -25,16 +25,6 @@ public class linkedListUse {
         print(head);
     }
 
-    // printing the node using function
-    public static void print(node<Integer> head) {
-        node<Integer> temp = head;
-        while (head != null) {
-            System.out.print(head.data + " ");
-            head = head.next;
-        }
-        System.out.println();
-    }
-
     /* making a function to take list as node, time complexity: O(n^2) */
     public static node<Integer> takeInput() {
         node<Integer> head = null;
@@ -78,6 +68,16 @@ public class linkedListUse {
             data = s.nextInt();
         }
         return head;
+    }
+
+    // printing the node using function
+    public static void print(node<Integer> head) {
+        node<Integer> temp = head;
+        while (head != null) {
+            System.out.print(head.data + " ");
+            head = head.next;
+        }
+        System.out.println();
     }
 
     /* Insert node inside Linked List */
