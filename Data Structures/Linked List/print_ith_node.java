@@ -3,7 +3,8 @@
 If the given position 'i',  is greater than the length of the given singly linked list, then don't print anything.
 
 Input format :
-The first line contains an Integer 't' which denotes the number of test cases or queries to be run. Then the test cases follow.
+The first line contains an Integer 't' which denotes the number of test cases or queries to be run.
+Then the test cases follow.
 The first line of each test case or query contains the elements of the singly linked list separated by a single space.
 The second line contains the value of 'i'. It denotes the position in the given singly linked list.
 
