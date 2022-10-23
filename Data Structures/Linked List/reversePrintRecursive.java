@@ -6,6 +6,7 @@ public class reversePrintRecursive {
         printRecursiveReverseLL(head);
     }
 
+    // print the Linked list reversely without making it reverse
     public static void printRecursiveReverseLL(node<Integer> head) {
         if (head == null) {
             return;

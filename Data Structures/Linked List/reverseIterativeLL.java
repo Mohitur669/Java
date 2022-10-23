@@ -1,21 +1,25 @@
 import java.util.Scanner;
 
-public class insertRecursive {
+public class reverseIterativeLL {
     public static void main(String[] args) {
         node<Integer> head = takeInput();
-        head = recursiveInsertLL(head, 2, 10);
+        head = reverseIterative(head);
         recursivePrintLL(head);
     }
 
-    // insert a ndoe inside a linked list recursively
-    public static node<Integer> recursiveInsertLL(node<Integer> head, int pos, int element) {
-        if (pos == 0) {
-            node<Integer> newNode = new node<>(element);
-            newNode.next = head;
-            return newNode;
+    // reversing a linked list iteratively (means without using a recursion)
+    public static node<Integer> reverseIterative(node<Integer> head) {
+        node<Integer> curr = head;
+        node<Integer> prev = null;
+        node<Integer> temp;
+
+        while (curr != null) {
+            temp = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = temp;
         }
-        head.next = recursiveInsertLL(head.next, pos - 1, element);
-        return head;
+        return prev;
     }
 
     public static node<Integer> takeInput() {

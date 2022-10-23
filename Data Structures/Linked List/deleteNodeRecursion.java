@@ -1,21 +1,25 @@
 import java.util.Scanner;
 
-public class insertRecursive {
+public class deleteNodeRecursion {
     public static void main(String[] args) {
         node<Integer> head = takeInput();
-        head = recursiveInsertLL(head, 2, 10);
+        head = deleteNodeRecursionLL(head, 2);
         recursivePrintLL(head);
     }
 
-    // insert a ndoe inside a linked list recursively
-    public static node<Integer> recursiveInsertLL(node<Integer> head, int pos, int element) {
-        if (pos == 0) {
-            node<Integer> newNode = new node<>(element);
-            newNode.next = head;
-            return newNode;
+    // delete a node from a linked list with recursion
+    public static node<Integer> deleteNodeRecursionLL(node<Integer> head, int pos) {
+        if (head == null) {
+            return head;
         }
-        head.next = recursiveInsertLL(head.next, pos - 1, element);
-        return head;
+        if (pos == 0) {
+            head = head.next;
+            return head;
+        } else {
+            node<Integer> smallerHead = deleteNodeRecursionLL(head.next, pos - 1);
+            head.next = smallerHead;
+            return head;
+        }
     }
 
     public static node<Integer> takeInput() {
