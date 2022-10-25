@@ -16,8 +16,10 @@
       <sourceFolder url="file://$MODULE_DIR$/Test 01" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Test 01 DSA" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Test 02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Test 02 DSA" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Data Structures" />
   </component>
 </module>
