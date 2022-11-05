@@ -46,4 +46,8 @@ public class TreeNodeUse {
             print(root.children.get(i));
         }
     }
+    // taking input level wise - iteration method - more comfortable for the user
+    public static TreeNode<Integer> takeInputLevelWise(){
+        Scanner s = new Scanner(System.in);
+    }
 }
