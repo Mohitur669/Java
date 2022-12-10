@@ -40,6 +40,7 @@ Sample Output 2 :
 0 */
 
 import java.util.Scanner;
+
 /* No need to create node class, it's in the same package so we can use it */
 public class print_ith_node {
 

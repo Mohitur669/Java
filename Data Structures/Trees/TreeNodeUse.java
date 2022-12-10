@@ -1,5 +1,3 @@
-import com.sun.source.tree.Tree;
-
 import java.util.Scanner;
 
 public class TreeNodeUse {
@@ -61,7 +59,7 @@ public class TreeNodeUse {
         Scanner s = new Scanner(System.in);
         System.out.println("Enter root data: ");
         int rootData = s.nextInt();
-        QueuesUsingLL<TreeNode<Integer>> pendingNodes = new QueuesUsingLL<>(2);
+        QueuesUsingLL2<TreeNode<Integer>> pendingNodes = new QueuesUsingLL2<>(2);
         TreeNode<Integer> root = new TreeNode<>(rootData);
         pendingNodes.enqueue(root);
         while (!pendingNodes.isEmpty()) {
@@ -76,7 +74,7 @@ public class TreeNodeUse {
                     frontNode.children.add(childNode);
                     pendingNodes.enqueue(childNode);
                 }
-            } catch (QueueEmptyException e) {
+            } catch (QueueEmptyException2 e) {
                 // shouldn't come here
                 return null;
             }

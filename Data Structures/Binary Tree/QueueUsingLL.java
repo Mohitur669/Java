@@ -1,9 +1,11 @@
-public class QueuesUsingLL<T> {
-    private nodeQueue<T> front;
-    private nodeQueue<T> rear;
-    int size;
 
-    public QueuesUsingLL(int i) {
+public class QueueUsingLL<T> {
+
+    private NodeBinary<T> front;
+    private NodeBinary<T> rear;
+    private int size;
+
+    public QueueUsingLL() {
         front = null;
         rear = null;
         size = 0;
@@ -17,15 +19,15 @@ public class QueuesUsingLL<T> {
         return size == 0;
     }
 
-    T front() throws QueueEmptyException {
+    T front() throws QueueEmptyException2 {
         if (size == 0) {
-            throw new QueueEmptyException();
+            throw new QueueEmptyException2();
         }
         return front.data;
     }
 
     void enqueue(T element) {
-        nodeQueue<T> newNode = new nodeQueue<>(element);
+        NodeBinary<T> newNode = new NodeBinary<>(element);
         if (rear == null) {
             front = newNode;
             rear = newNode;
@@ -34,18 +36,23 @@ public class QueuesUsingLL<T> {
             rear = newNode;
         }
         size++;
+
     }
 
-    T dequeue() throws QueueEmptyException {
+    T dequeue() throws QueueEmptyException2 {
         if (size == 0) {
-            throw new QueueEmptyException();
+            throw new QueueEmptyException2();
         }
+
         T temp = front.data;
         front = front.next;
         if (size == 1) {
             rear = null;
         }
         size--;
+
         return temp;
     }
+
+
 }

@@ -7,7 +7,7 @@ public class linkedListJavaCollections {
         list.add(10);
         list.add(20);
         list.addFirst(30);
-        list.set(2,100);
+        list.set(2, 100);
 
         System.out.println(list);
     }

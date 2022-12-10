@@ -27,11 +27,11 @@ public class arrayList {
 //        for (int i = 0; i < list1.size(); i++) {
 //            System.out.print(list1.get(i) + " ");
 //        }
-        ArrayList<String> list = new ArrayList<String>() ;
-        list.add( "apple" );
-        list.add( "banana" );
-        list.add( "carrot" );
-        list.add( 0, "mango" );
+        ArrayList<String> list = new ArrayList<String>();
+        list.add("apple");
+        list.add("banana");
+        list.add("carrot");
+        list.add(0, "mango");
         System.out.println(list.get(2));
     }
 }

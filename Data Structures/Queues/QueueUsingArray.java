@@ -26,9 +26,9 @@ public class QueueUsingArray {
         return size == 0;
     }
 
-    int front() throws QueueEmptyException {
+    int front() throws QueueEmptyException2 {
         if (size == 0) {
-            throw new QueueEmptyException();
+            throw new QueueEmptyException2();
         }
         return data[front];
     }
@@ -52,9 +52,9 @@ public class QueueUsingArray {
         size++;
     }
 
-    int dequeue() throws QueueEmptyException {
+    int dequeue() throws QueueEmptyException2 {
         if (size == 0) {
-            throw new QueueEmptyException();
+            throw new QueueEmptyException2();
         }
         int temp = data[front];
         front = (front + 1) % data.length;

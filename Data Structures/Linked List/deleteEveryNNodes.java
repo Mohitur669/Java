@@ -27,7 +27,7 @@ import java.util.Scanner;
 public class deleteEveryNNodes {
     public static void main(String[] args) {
         node<Integer> head = takeInput();
-        head = skipMdeleteN(head,2,3);
+        head = skipMdeleteN(head, 2, 3);
         recursivePrintLL(head);
     }
 
