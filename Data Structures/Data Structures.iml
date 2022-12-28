@@ -8,7 +8,10 @@
       <sourceFolder url="file://$MODULE_DIR$/Stacks" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Queues" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Binary Tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Hashmaps" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Priority Queues - Heap" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Trees" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tries and Huffman Coding" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

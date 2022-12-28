@@ -131,7 +131,7 @@ public class BinaryTreeUse {
         }
     }
 
-    // Node with largest data
+    // Node with the largest data
     public static int largestNodeData(BinaryTreeNode<Integer> root) {
         if (root == null) {
             return -1;

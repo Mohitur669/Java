@@ -1,6 +1,6 @@
 public class highestOccuringCharacter {
     public static void main(String[] args) {
-        String str = "abcdeapapqarr";
+        String str = "abcdeapapqarrrrr";
         System.out.println(highestOccurringChar(str));
     }
 
