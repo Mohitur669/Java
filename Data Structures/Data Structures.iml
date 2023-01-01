@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Binary Tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Hashmaps" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Priority Queues - Heap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dynamic Programming" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Trees" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Tries and Huffman Coding" isTestSource="false" />
     </content>
