@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a57a011c-100e-49f6-b02e-9d09f0cfd452" name="Changes" comment="DP-1 Complete">
+      <change afterPath="$PROJECT_DIR$/Data Structures/Dynamic Programming/EditDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/Dynamic Programming/Knapsack01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/Dynamic Programming/LCS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/Dynamic Programming/MagicGrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/Dynamic Programming/MaximumSquareMatrixWithAllZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/Dynamic Programming/MinimumCostPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/Dynamic Programming/MinimumNumberOfChocolate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/Dynamic Programming/SmallestSuperSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/Dynamic Programming/SubsetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/32 Graphs-1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/Dynamic Programming/FibonacciDP.java" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structures/Dynamic Programming/FibonacciDP.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="ef6ff032-e61c-4303-a43c-944d9fb6ba0a" />
+        <option name="url" value="https://github.com/Mohitur669/Java.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2G2qMx1cMfgUwNAYNL5vs2W10ed" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/KIIT/Desktop/Java/Data Structures/Binary Tree&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\KIIT\Desktop\Java\Data Structures\Binary Tree" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KIIT\Desktop\Java\Data Structures\Linked List" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SubsetSum">
+    <configuration name="Knapsack01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Knapsack01" />
+      <module name="Data Structures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumSquareMatrixWithAllZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaximumSquareMatrixWithAllZeroes" />
+      <module name="Data Structures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinimumNumberOfChocolate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinimumNumberOfChocolate" />
+      <module name="Data Structures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallestSuperSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SmallestSuperSubsequence" />
+      <module name="Data Structures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubsetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SubsetSum" />
+      <module name="Data Structures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MaximumSquareMatrixWithAllZeroes" />
+      <item itemvalue="Application.MinimumNumberOfChocolate" />
+      <item itemvalue="Application.SmallestSuperSubsequence" />
+      <item itemvalue="Application.SubsetSum" />
+      <item itemvalue="Application.Knapsack01" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SubsetSum" />
+        <item itemvalue="Application.MinimumNumberOfChocolate" />
+        <item itemvalue="Application.SmallestSuperSubsequence" />
+        <item itemvalue="Application.MaximumSquareMatrixWithAllZeroes" />
+        <item itemvalue="Application.Knapsack01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a57a011c-100e-49f6-b02e-9d09f0cfd452" name="Changes" comment="" />
+      <created>1665596984767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665596984767</updated>
+    </task>
+    <task id="LOCAL-00001" summary="test git new laptop">
+      <created>1665671204745</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665671204745</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test 02 Submission">
+      <created>1666704996431</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666704996431</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Stacks Complete">
+      <created>1666713285928</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666713285928</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Queues Complete">
+      <created>1667315031484</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667315031484</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2 laptop setup">
+      <created>1667629598605</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667629598605</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test">
+      <created>1667642670719</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667642670719</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test2">
+      <created>1667650299508</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667650299508</updated>
+    </task>
+    <task id="LOCAL-00008" summary="random">
+      <created>1668230841381</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668230841381</updated>
+    </task>
+    <task id="LOCAL-00009" summary="shareMouse setup dual Laptop screen">
+      <created>1670696537463</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670696537463</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Filename Correction">
+      <created>1671220337471</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1671220337471</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Completed PDF Folder">
+      <created>1671645986118</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1671645986118</updated>
+    </task>
+    <task id="LOCAL-00012" summary="pdf folder modified">
+      <created>1671646524055</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1671646524055</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Tries + Priority Queue + Hashmaps Complete">
+      <created>1672240945082</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1672240945082</updated>
+    </task>
+    <task id="LOCAL-00014" summary=".class files update">
+      <created>1672562389495</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1672562389495</updated>
+    </task>
+    <task id="LOCAL-00015" summary="DP-1 Complete">
+      <created>1672773559525</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1672773559525</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="afdd1a1c-a981-41c0-9117-5ddf9a3e9779">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/KIIT/Desktop/Java/Data Structures/Linked List" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="test git new laptop" />
+    <MESSAGE value="Test 02 Submission" />
+    <MESSAGE value="Stacks Complete" />
+    <MESSAGE value="Queues Complete" />
+    <MESSAGE value="2 laptop setup" />
+    <MESSAGE value="test" />
+    <MESSAGE value="test2" />
+    <MESSAGE value="random" />
+    <MESSAGE value="shareMouse setup dual Laptop screen" />
+    <MESSAGE value="Filename Correction" />
+    <MESSAGE value="Completed PDF Folder" />
+    <MESSAGE value="pdf folder modified" />
+    <MESSAGE value="Tries + Priority Queue + Hashmaps Complete" />
+    <MESSAGE value=".class files update" />
+    <MESSAGE value="DP-1 Complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="DP-1 Complete" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NoClassDefFoundError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

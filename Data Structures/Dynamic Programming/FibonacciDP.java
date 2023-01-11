@@ -1,22 +1,22 @@
 public class FibonacciDP {
     public static void main(String[] args) {
         int n = 44;
-        System.out.println(fibModified(n));
-        System.out.println(fibDp(n));
+        System.out.println(fibonacciModified(n));
+        System.out.println(fibonacciDP(n));
         System.out.println(fibonacci(n));
     }
 
     // Time Complexity - O(n)
-    public static int fibModified(int n) {
+    public static int fibonacciModified(int n) {
         int[] storage = new int[n + 1];
         for (int i = 0; i <= n; i++) {
             storage[i] = -1;
         }
-        return fibModifiedHelper(n, storage);
+        return fibonacciModifiedHelper(n, storage);
     }
 
     // Top-Down Approach - Memoization Code
-    public static int fibModifiedHelper(int n, int[] storage) {
+    public static int fibonacciModifiedHelper(int n, int[] storage) {
         if (n == 0 || n == 1) {
             storage[n] = n;
             return storage[n];
@@ -24,7 +24,7 @@ public class FibonacciDP {
         if (storage[n] != -1) {
             return storage[n];
         }
-        storage[n] = fibModifiedHelper(n - 1, storage) + fibModifiedHelper(n - 2, storage);
+        storage[n] = fibonacciModifiedHelper(n - 1, storage) + fibonacciModifiedHelper(n - 2, storage);
         return storage[n];
     }
 
@@ -39,7 +39,7 @@ public class FibonacciDP {
 
     // Bottom-Up Approach - Dynamic Programming Code
     /* Actually we use dynamic programming to eliminate the use of recursion! */
-    public static int fibDp(int n) {
+    public static int fibonacciDP(int n) {
         int[] storage = new int[n + 1];
         storage[0] = 0;
         storage[1] = 1;
