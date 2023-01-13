@@ -25,10 +25,10 @@ import java.util.HashMap;
 public class CountOfZeroSumSubArrays {
     public static void main(String[] args) {
         int[] arr = {2, 1, -2, 2, 3};
-        System.out.println(zeroSumSubarray(arr, arr.length));
+        System.out.println(zeroSumSubArray(arr, arr.length));
     }
 
-    public static int zeroSumSubarray(int[] arr, int size) {
+    public static int zeroSumSubArray(int[] arr, int size) {
         if (size == 0)
             return 0;
 

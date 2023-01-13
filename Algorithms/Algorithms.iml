@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/QuickSort" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Selection Sort" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Trie" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Graphs" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
