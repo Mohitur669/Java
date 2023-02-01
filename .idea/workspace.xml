@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a57a011c-100e-49f6-b02e-9d09f0cfd452" name="Changes" comment="OOPS 4">
-      <change afterPath="$PROJECT_DIR$/Data Structures/BackTracking/NQueen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Structures/BackTracking/RatInAMaze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/35 Backtracking.pdf" afterDir="false" />
+    <list default="true" id="a57a011c-100e-49f6-b02e-9d09f0cfd452" name="Changes" comment="Backtracking + DSA Complete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structures/Data Structures.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structures/Data Structures.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/RatInAMaze.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/RatInAMaze.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +80,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RatInAMaze">
+  <component name="RunManager" selected="Application.test">
     <configuration name="ByteLandian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ByteLandian" />
       <module name="Data Structures" />
@@ -111,7 +108,7 @@
       </method>
     </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="18" />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk-18.0.2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="test" />
       <method v="2">
@@ -127,10 +124,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.RatInAMaze" />
         <item itemvalue="Application.checkArmstrong" />
         <item itemvalue="Application.DeleteAlternativeNodes" />
-        <item itemvalue="Application.test" />
         <item itemvalue="Application.ByteLandian" />
       </list>
     </recent_temporary>
@@ -270,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673731970361</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Backtracking + DSA Complete">
+      <created>1674218411701</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1674218411701</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -329,7 +333,8 @@
     <MESSAGE value="DP-2 Complete" />
     <MESSAGE value="Graph Complete" />
     <MESSAGE value="OOPS 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOPS 4" />
+    <MESSAGE value="Backtracking + DSA Complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Backtracking + DSA Complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
