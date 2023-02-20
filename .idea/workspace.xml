@@ -4,9 +4,87 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a57a011c-100e-49f6-b02e-9d09f0cfd452" name="Changes" comment="Backtracking + DSA Complete">
+    <list default="true" id="a57a011c-100e-49f6-b02e-9d09f0cfd452" name="Changes" comment="modify insertion sort">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_win_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_win_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding Ninjas/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Array/BuyAndSellStocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Array/IntersectionOfTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Array/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Array/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Array/PerfectSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Array/PlusOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Array/SearchInsertPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Array/SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Array/SqrtOfX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Array/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Important/HappyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/LeetCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/IntersectionOfTwoArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MajorityElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/PlusOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/SearchInsertPosition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/SingleNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/TwoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/RatInAMaze.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/RatInAMaze.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/mergeTwoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/mergeTwoArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/Data Structures.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structures/Data Structures.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/basic/DynamicArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/basic/DynamicArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/insertion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/insertion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/AllConnectedComponents.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/AllConnectedComponents.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/BinaryTreeUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/BinaryTreeUse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/MapImplementationUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/MapImplementationUse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/NodesWithoutSibling.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/NodesWithoutSibling.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/PrintTreeLevelWise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/PrintTreeLevelWise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/TreeNodeUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/TreeNodeUse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/appendLastNToFirst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/appendLastNToFirst.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/arrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/arrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/bubbleSortIterativeLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/bubbleSortIterativeLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/deleteEveryNNodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/deleteEveryNNodes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/deleteNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/deleteNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/deleteNodeRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/deleteNodeRecursion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/eliminateDuplicatesLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/eliminateDuplicatesLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/evenAfterOddLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/evenAfterOddLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/findANode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/findANode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/incrementEveryElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/incrementEveryElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/insertNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/insertNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/insertRecursive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/insertRecursive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/kReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/kReverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/linkedListUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/linkedListUse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/mergeSortLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/mergeSortLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/mergeTwoSortedLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/mergeTwoSortedLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/midPointOfLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/midPointOfLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/palindromeLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/palindromeLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/postOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/postOrderTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/preOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/preOrderTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/printRecursive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/printRecursive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/printReverseLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/printReverseLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/reverseIterativeLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/reverseIterativeLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/reverseLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/reverseLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/reverseLLBetter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/reverseLLBetter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/reverseLLBetter2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/reverseLLBetter2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/reversePrintRecursive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/reversePrintRecursive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/swapTwoNodesLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/swapTwoNodesLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/takeLinkedListAsInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/takeLinkedListAsInput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mergeTwoArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mergeTwoArrays.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +135,10 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/KIIT/Desktop/Java/Algorithms/Graphs&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/KIIT/Desktop/My Study/Java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -80,55 +159,56 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="ByteLandian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ByteLandian" />
-      <module name="Data Structures" />
+  <component name="RunManager" selected="Application.test1">
+    <configuration name="HappyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HappyNumber" />
+      <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeleteAlternativeNodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DeleteAlternativeNodes" />
+    <configuration name="PerfectSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PerfectSquare" />
+      <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RatInAMaze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RatInAMaze" />
-      <module name="Data Structures" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="checkArmstrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="checkArmstrong" />
+    <configuration name="mergeRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mergeRecursion" />
+      <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk-18.0.2" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk-19" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="test1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.ByteLandian" />
-      <item itemvalue="Application.DeleteAlternativeNodes" />
-      <item itemvalue="Application.RatInAMaze" />
-      <item itemvalue="Application.checkArmstrong" />
+      <item itemvalue="Application.mergeRecursion" />
+      <item itemvalue="Application.PerfectSquare" />
+      <item itemvalue="Application.test1" />
+      <item itemvalue="Application.HappyNumber" />
       <item itemvalue="Application.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test1" />
+        <item itemvalue="Application.HappyNumber" />
+        <item itemvalue="Application.mergeRecursion" />
+        <item itemvalue="Application.PerfectSquare" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.RatInAMaze" />
-        <item itemvalue="Application.checkArmstrong" />
-        <item itemvalue="Application.DeleteAlternativeNodes" />
-        <item itemvalue="Application.ByteLandian" />
       </list>
     </recent_temporary>
   </component>
@@ -274,8 +354,33 @@
       <option name="project" value="LOCAL" />
       <updated>1674218411701</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Update readme.md">
+      <created>1675273341812</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1675273341812</updated>
+    </task>
+    <task id="LOCAL-00021" summary="modify insertion sort">
+      <created>1676064407807</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1676064407807</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -334,7 +439,9 @@
     <MESSAGE value="Graph Complete" />
     <MESSAGE value="OOPS 4" />
     <MESSAGE value="Backtracking + DSA Complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Backtracking + DSA Complete" />
+    <MESSAGE value="Update readme.md" />
+    <MESSAGE value="modify insertion sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify insertion sort" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

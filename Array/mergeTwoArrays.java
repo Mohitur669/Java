@@ -1,38 +1,38 @@
-import java.util.Arrays;
-
 public class mergeTwoArrays {
     public static void main(String[] args) {
-        int[] arr1 = {1, 3, 5, 7, 8, 8, 9, 15, 16};
+        int[] arr1 = {1, 2, 3, 0, 0, 0};
         int n1 = arr1.length;
-        int[] arr2 = {2, 4, 6, 8, 9, 9, 10};
+        int[] arr2 = {2, 5, 6};
         int n2 = arr2.length;
-        int[] merged = new int[n1 + n2];
-        System.out.println(Arrays.toString(mergeArrays(arr1, arr2, n1, n2, merged)));
+        merge(arr1, n1, arr2, n2);
+        for (int i = 0; i < arr1.length; i++) {
+            System.out.println(arr1[i] + " ");
+        }
     }
 
-    public static int[] mergeArrays(int[] arr1, int[] arr2, int n1, int n2, int[] merged) {
-        int i = 0, j = 0, k = 0;
-        // Traverse both array
-        while (i < n1 && j < n2) {
-            // Check if current element of first
-            // array is smaller than current element
-            // of second array. If yes, store first
-            // array element and increment first array
-            // index. Other-wise do same with second array
-            if (arr1[i] < arr2[j]) {
-                merged[k++] = arr1[i++];
+    public static void merge(int[] nums1, int m, int[] nums2, int n) {
+        //variables to work as pointers
+        int i = m - 1; // will point at m-1 index of nums1 array
+        int j = n - 1; // will point at n-1 index of nums2 array
+        int k = nums1.length - 1; //will point at the last position of the nums1 array
+
+        // Now traversing the nums2 array
+        while (j >= 0) {
+            // If element at i index of nums1 > element at j index of nums2
+            // then it is largest among two arrays and will be stored at k position of nums1
+            // using i>=0 to make sure we have elements to compare in nums1 array
+            if (i >= 0 && nums1[i] > nums2[j]) {
+                nums1[k] = nums1[i];
+                k--;
+                i--; //updating pointer for further comparisons
             } else {
-                merged[k++] = arr2[j++];
+                // element at j index of nums2 array is greater than the element at i index of nums1 array
+                // or there is no element left to compare with the nums1 array
+                // and we just have to push the elements of nums2 array in the nums1 array.
+                nums1[k] = nums2[j];
+                k--;
+                j--; //updating pointer for further comparisons
             }
         }
-        // Store remaining elements of first array
-        while (i < n1) {
-            merged[k++] = arr1[i++];
-        }
-        // Store remaining elements of second array
-        while (j < n2) {
-            merged[k++] = arr2[j++];
-        }
-        return merged;
     }
 }

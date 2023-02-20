@@ -14,6 +14,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Trees" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Graphs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/BackTracking" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BST" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Tries and Huffman Coding" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />

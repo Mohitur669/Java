@@ -1,7 +1,7 @@
 package basic;
 
 public class DynamicArray {
-    private int data[];
+    private int[] data;
     private int nextIndex;
 
     public DynamicArray() {
