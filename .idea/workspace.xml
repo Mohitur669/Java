@@ -4,52 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a57a011c-100e-49f6-b02e-9d09f0cfd452" name="Changes" comment="modify insertion sort">
-      <change afterPath="$PROJECT_DIR$/PDF/000 Coding  Ninjas Master PDF.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/01 Flowcharts.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/02 Java Intro.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/03 Conditional and Loops.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/04 Patterns - Part 1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/05 Patterns - Part 2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/06 Loops and Keywords.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/07 Functions.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/08 Arrays.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/09 Buffered Reader Class.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/10 Searching and Sorting.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/11 Strings.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/12 OOPS-1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/13 OOPS-2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/14 Recursion.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/15 Recursion-1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/16 Recursion-2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/17 Time Complexity.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/18 Space Complexity.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/19 OOPS-3.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/20 Linked List-1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/21 Linked List-2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/22 Stacks.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/23 Queues.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/24 Trees.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/25 Binary Trees.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/26 Binary Search Tree Notes.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/27 Hashmaps.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/28 Priority Queues.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/29 Tries and Huffman Coding.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/30 DP-1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/31 DP-2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/32 Graphs-1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/33 Graphs-2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/34 OOPS-4.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/35 Backtracking.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/BuyAndSellStocks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/HappyNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MissingNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/PerfectSquare.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/SqrtOfX.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a57a011c-100e-49f6-b02e-9d09f0cfd452" name="Changes" comment="modify insertion sort" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
