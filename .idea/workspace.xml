@@ -5,93 +5,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a57a011c-100e-49f6-b02e-9d09f0cfd452" name="Changes" comment="modify insertion sort">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_win_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_win_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coding Ninjas/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Array/BuyAndSellStocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Array/IntersectionOfTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Array/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Array/MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Array/PerfectSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Array/PlusOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Array/SearchInsertPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Array/SingleNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Array/SqrtOfX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Array/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Important/HappyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/LeetCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/IntersectionOfTwoArrays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MajorityElement.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/PlusOne.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/SearchInsertPosition.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/SingleNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/TwoSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/000 Coding  Ninjas Master PDF.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/01 Flowcharts.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/02 Java Intro.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/03 Conditional and Loops.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/04 Patterns - Part 1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/05 Patterns - Part 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/06 Loops and Keywords.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/07 Functions.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/08 Arrays.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/09 Buffered Reader Class.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/10 Searching and Sorting.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/11 Strings.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/12 OOPS-1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/13 OOPS-2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/14 Recursion.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/15 Recursion-1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/16 Recursion-2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/17 Time Complexity.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/18 Space Complexity.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/19 OOPS-3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/20 Linked List-1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/21 Linked List-2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/22 Stacks.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/23 Queues.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/24 Trees.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/25 Binary Trees.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/26 Binary Search Tree Notes.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/27 Hashmaps.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/28 Priority Queues.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/29 Tries and Huffman Coding.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/30 DP-1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/31 DP-2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/32 Graphs-1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/33 Graphs-2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/34 OOPS-4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/35 Backtracking.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/BuyAndSellStocks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/HappyNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MissingNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/PerfectSquare.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/SqrtOfX.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/mergeTwoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/mergeTwoArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structures/Data Structures.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structures/Data Structures.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/basic/DynamicArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/basic/DynamicArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/insertion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/insertion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/AllConnectedComponents.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/AllConnectedComponents.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/BinaryTreeUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/BinaryTreeUse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/MapImplementationUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/MapImplementationUse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/NodesWithoutSibling.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/NodesWithoutSibling.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/PrintTreeLevelWise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/PrintTreeLevelWise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/TreeNodeUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/TreeNodeUse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/appendLastNToFirst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/appendLastNToFirst.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/arrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/arrayList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/bubbleSortIterativeLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/bubbleSortIterativeLL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/deleteEveryNNodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/deleteEveryNNodes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/deleteNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/deleteNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/deleteNodeRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/deleteNodeRecursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/eliminateDuplicatesLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/eliminateDuplicatesLL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/evenAfterOddLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/evenAfterOddLL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/findANode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/findANode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/incrementEveryElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/incrementEveryElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/insertNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/insertNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/insertRecursive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/insertRecursive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/kReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/kReverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/linkedListUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/linkedListUse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/mergeSortLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/mergeSortLL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/mergeTwoSortedLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/mergeTwoSortedLL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/midPointOfLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/midPointOfLL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/palindromeLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/palindromeLL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/postOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/postOrderTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/preOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/preOrderTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/printRecursive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/printRecursive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/printReverseLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/printReverseLL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/reverseIterativeLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/reverseIterativeLL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/reverseLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/reverseLL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/reverseLLBetter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/reverseLLBetter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/reverseLLBetter2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/reverseLLBetter2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/reversePrintRecursive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/reversePrintRecursive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/swapTwoNodesLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/swapTwoNodesLL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/takeLinkedListAsInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/takeLinkedListAsInput.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mergeTwoArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mergeTwoArrays.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
