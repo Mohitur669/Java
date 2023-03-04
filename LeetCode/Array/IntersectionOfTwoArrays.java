@@ -1,8 +1,15 @@
+import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
 public class IntersectionOfTwoArrays {
-    public int[] intersection(int[] nums1, int[] nums2) {
+    public static void main(String[] args) {
+        int[] arr1 = {2, 3, 4, 5, 5, 5, 6};
+        int[] arr2 = {3, 44, 35, 465, 67, 3, 5, 5};
+        System.out.println(Arrays.toString(intersection(arr1, arr2)));
+    }
+
+    public static int[] intersection(int[] nums1, int[] nums2) {
         Set<Integer> set1 = new HashSet<>();
         for (int i : nums1) {
             set1.add(i);

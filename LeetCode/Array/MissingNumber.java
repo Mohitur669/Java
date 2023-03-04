@@ -2,7 +2,12 @@ import java.util.Arrays;
 import java.util.List;
 
 public class MissingNumber {
-    public int missingNumber(int[] nums) {
+    public static void main(String[] args) {
+        int[] arr = {0, 1, 2, 3, 4, 6, 7};
+        System.out.println(missingNumber(arr));
+    }
+
+    public static int missingNumber(int[] nums) {
         // int ans = nums.length;
         // for (int i = 0; i < nums.length; i++) {
         //     ans = ans ^ i ^ nums[i];
