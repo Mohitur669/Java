@@ -1,3 +1,5 @@
+import org.w3c.dom.ls.LSOutput;
+
 public class compressString {
     public static void main(String[] args) {
         String str = "aaabbccdsaa";
