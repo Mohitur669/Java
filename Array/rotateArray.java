@@ -45,7 +45,7 @@ import java.util.Arrays;
 
 public class rotateArray {
     public static void main(String[] args) {
-        int arr[] = {2, 6, 3, 1, 5};
+        int[] arr = {2, 6, 3, 1, 5};
         rotate(arr, 2);
         System.out.println(Arrays.toString(arr));
     }
