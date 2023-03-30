@@ -4,7 +4,292 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a57a011c-100e-49f6-b02e-9d09f0cfd452" name="Changes" comment="git guide" />
+    <list default="true" id="a57a011c-100e-49f6-b02e-9d09f0cfd452" name="Changes" comment="git guide">
+      <change afterPath="$PROJECT_DIR$/Classwork/Basic/DemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/Basic/HappyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/Basic/StringException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/Basic/characteristic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/Basic/circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/Basic/employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/Basic/my_details.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/Basic/operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/Basic/rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/Basic/test23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/Basic/triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/Basic/variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/Basic/welcome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/Classwork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/Feb24/celcius.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/Feb24/operator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/Feb24/surfaceCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/Feb24/ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/Feb24/testArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/Feb24/tilts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/March03/Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/March03/bitwise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/March03/shift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/March10/denomination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/March10/quadratic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/March10/salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/March10/triangleType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/March15/a6/numberToWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/March15/a6/operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/March15/a6/percentage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/March15/a7/CountAndPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/March15/a7/armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/March15/a7/fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/March15/a7/maxMinWithoutArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/March15/a7/palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/March15/a7/primeFactors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/March15/a7/sumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/March17/digit4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/March17/multiplySingleDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/March17/series1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/March17/series2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/March17/series3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/March17/series4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/March17/singleDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/March22/Complex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/March22/Fraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apna College/Linked List/LinkedListUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/Apna College/Linked List/LinkedListUse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classwork/ArrayClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Classwork/March24/ArrayClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AddTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DeleteAlternativeNodes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DoubleEndedQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GUI/CalculatorUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GUI/Othello$OthelloBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GUI/Othello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GUI/TicTacToe/Board.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GUI/TicTacToe/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GUI/TicTacToe/TicTacToe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interfaces/Car1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interfaces/Vehicle1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interfaces/VehicleInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InvertedNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinearSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NextNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RelationalLogicalOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmallestLetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alphaPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/armstrongNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arrangeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arrangeNumbersInArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/array2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arrayFindUnique.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arrayInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arrayPrintPairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arraylist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/ComplexNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/ComplexNumberUse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/DynamicArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/DynamicArrayUse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/Fraction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/FractionUse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/Polynomial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/StudentUse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basicString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/binarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/binaryToDecimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/binaryUsingRecursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/boundaryDiagonalTotalSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/boxLetterPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/boxLetterPattern2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/boxStarPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bubbleSort2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/characterPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/charcheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/checkAB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/checkArmstrong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/checkArrayRotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/checkNumberInArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/checkPermutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/checkRepeat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/checkSorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/checkSortedBetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com/kunal/primeFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/com/kunal/scope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compressString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/countZeroes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/decimalToBinary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/diamondPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/diamondStarPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/digitSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/doesSContainsT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dynamicArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exception_handling/FractionException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exception_handling/FractionExceptionUse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exception_handling/ZeroDenominatorException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/factorialRecursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fibonacciRecursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/findDuplicateElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/findUniqueElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/firstIndex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fucntionOverloading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/function.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/functionParameters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generics/genericMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generics/pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generics/pairUse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generics/printInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/generics/student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/geometricSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/goOut.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/halfDiamondWithNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/halfTriangleStarPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hcf_lcm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highestOccuringCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/indexAll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/insertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interestingAlphabets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/internalSwapping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/internalSwappingArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/intersectionOfTwoArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/invertedNumberPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/invertedTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/isPrime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/isoscelesPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/isoscelesTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/johnyProblem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kunal/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kunal/HumanUse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kunal/InnerClasses$Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kunal/InnerClasses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kunal/SingletonClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kunal/SingletonUse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kunal/StaticBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kunal/Students.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kunal/StudentsUse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kunal/array/linearSearchRecursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kunal/array/rotatedBinary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kunal/array/sortedOrNot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kunal/numbersRecursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/largest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/largestColumnSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/largestNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/largestRowColumnSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lastIndex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leadersInArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leapYear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linearSearchString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lowerHalfRightPyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maxArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maxMinAmongThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maximumProfitOnApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mergeTwoArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minLengthWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mirrorImageNumberPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mirrorImagePattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/monotonicRightHalfTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/multiplyTwoIntegers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/nCr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/nestedSwitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/nodeStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/numberDiamond.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/numberOfDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/numberRightHalfTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/numberStarPattern1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/numberTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/numberTriangleTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oddSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pairStar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pairSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/palindromeString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parallelogramPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/passFail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/perfectNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/powerRecursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/print2DArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/printAllPrime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/printKeypadCombination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/printMatrixLikeWave.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/printNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/printSubSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pushingZeroToEnd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pyramidStarPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/removeCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/removeDuplicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/removeDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/removeX.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/replaceCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/replacePi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/returnAllCodes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/returnKeypadCombinations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/returnPermutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/returnSubSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/returnSubsetOfAnArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/returnSubsetSumToK.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/reverseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/reverseEachWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/reverseNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/reverseNumberPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/reverseNumberWithoutZero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/reverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/reverseTriangleStarPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rightHalfKite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rightHalfTrianglePattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rotateArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rowWiseSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/secondLargestElementInArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/selectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/shadowing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/smallest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sort012.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sort_0_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spiralMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/splitArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/squareNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/squareRoot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/squareStar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stairCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/starFullUpperTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/strictMonotonicRightHalfTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stringBuffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stringPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stringReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stringToInteger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/substring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sumMultiple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sumNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sumOfArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sumOfDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sumOfTwoArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sumOrProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sumPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sumRecursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swapAlternate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swapAlternateIndexElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swapArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/switchStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/termsOfAP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/towerOfHanoi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/triangleOfNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tripletSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/upperHalfRightPyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/upperTriangleOfNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/variableArguments.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/vehicle/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/vehicle/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/vehicle/VehicleUse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/vehicle_temp/Truck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/vowelConsonant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/wordStringReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/zeroesAndStarPattern.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +357,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/My Study/Java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/My Study/Java/Classwork&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -90,11 +375,14 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\My Study\Java\Classwork" />
+      <recent name="D:\My Study\Java\Classwork\March24" />
       <recent name="D:\My Study\Java" />
       <recent name="C:\Users\KIIT\Desktop\Java\Algorithms\Graphs" />
       <recent name="C:\Users\KIIT\Desktop\Java\Data Structures\Binary Tree" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\My Study\Java\Classwork\Random" />
       <recent name="D:\My Study\Java\ApnaCollege" />
       <recent name="D:\My Study\Java" />
       <recent name="C:\Users\KIIT\Desktop\Java\Data Structures\Linked List" />
@@ -106,56 +394,45 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LinkedListUse (2)">
-    <configuration name="FirstOccurenceString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FirstOccurenceString" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkedListUse (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedListUse" />
-      <module name="Apna College" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkedListUse (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedListUse" />
-      <module name="Apna College" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.LinkedListUse">
     <configuration name="LinkedListUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="19" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="LinkedListUse" />
+      <module name="Apna College" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rotateArray" />
+    <configuration name="palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a7.palindrome" />
+      <module name="Classwork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.LinkedListUse (1)" />
-      <item itemvalue="Application.LinkedListUse (2)" />
-      <item itemvalue="Application.rotateArray" />
-      <item itemvalue="Application.FirstOccurenceString" />
-      <item itemvalue="Application.LinkedListUse" />
-    </list>
+    <configuration name="sumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a7.sumOfDigits" />
+      <module name="Classwork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LinkedListUse (2)" />
-        <item itemvalue="Application.LinkedListUse (1)" />
-        <item itemvalue="Application.rotateArray" />
         <item itemvalue="Application.LinkedListUse" />
-        <item itemvalue="Application.FirstOccurenceString" />
+        <item itemvalue="Application.palindrome" />
+        <item itemvalue="Application.sumOfDigits" />
       </list>
     </recent_temporary>
   </component>
@@ -190,6 +467,8 @@
       <workItem from="1680080192668" duration="356000" />
       <workItem from="1680080557258" duration="166000" />
       <workItem from="1680081181020" duration="2316000" />
+      <workItem from="1680127429990" duration="778000" />
+      <workItem from="1680160470262" duration="2053000" />
     </task>
     <task id="LOCAL-00001" summary="test git new laptop">
       <created>1665671204745</created>

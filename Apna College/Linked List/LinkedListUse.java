@@ -48,7 +48,7 @@ public class LinkedListUse {
     public void reverse() {
         Node prev = null;
         Node curr = tail = head;
-        
+
     }
 
     public static void main(String[] args) {
