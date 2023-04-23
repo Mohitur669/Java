@@ -12,7 +12,6 @@ public class test {
             }
             year++;
         }
-        System.out.println(year);
     }
 
     public static int digit(long mobileUsers) {

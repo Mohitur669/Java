@@ -42,7 +42,7 @@ a c
 
 public class towerOfHanoi {
     public static void main(String[] args) {
-        tower(3, 'a', 'b', 'c');
+        tower(4, 'a', 'b', 'c');
     }
 
     public static void tower(int disks, char source, char helper, char destination) {
