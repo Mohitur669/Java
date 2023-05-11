@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a57a011c-100e-49f6-b02e-9d09f0cfd452" name="Changes" comment="test windows ssh key" />
+    <list default="true" id="a57a011c-100e-49f6-b02e-9d09f0cfd452" name="Changes" comment="test windows ssh key">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/binarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/binarySearch.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +84,7 @@
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "terminal",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Font",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -109,35 +112,10 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test3">
-    <configuration name="FruitTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FruitTypes" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodOverriding1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MethodOverriding1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodOverriding1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MethodOverriding1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodOverriding1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MethodOverriding1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test3" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="20" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="test3" />
+  <component name="RunManager" selected="Application.HappyNumber">
+    <configuration name="HappyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HappyNumber" />
+      <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -150,20 +128,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.test3" />
-      <item itemvalue="Application.FruitTypes" />
-      <item itemvalue="Application.MethodOverriding1" />
-      <item itemvalue="Application.MethodOverriding1 (1)" />
-      <item itemvalue="Application.MethodOverriding1 (2)" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test3" />
-        <item itemvalue="Application.FruitTypes" />
-        <item itemvalue="Application.MethodOverriding1 (2)" />
-        <item itemvalue="Application.MethodOverriding1 (1)" />
-        <item itemvalue="Application.MethodOverriding1" />
+        <item itemvalue="Application.HappyNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -226,6 +193,17 @@
       <workItem from="1682269825285" duration="259000" />
       <workItem from="1682270093241" duration="74000" />
       <workItem from="1682272558250" duration="582000" />
+      <workItem from="1683140665939" duration="19000" />
+      <workItem from="1683226443680" duration="51000" />
+      <workItem from="1683227369236" duration="139000" />
+      <workItem from="1683227525800" duration="86000" />
+      <workItem from="1683227751661" duration="100000" />
+      <workItem from="1683305893684" duration="2953000" />
+      <workItem from="1683380772429" duration="419000" />
+      <workItem from="1683639613367" duration="85000" />
+      <workItem from="1683718321634" duration="328000" />
+      <workItem from="1683740959742" duration="203000" />
+      <workItem from="1683831513673" duration="144000" />
     </task>
     <task id="LOCAL-00001" summary="test git new laptop">
       <created>1665671204745</created>

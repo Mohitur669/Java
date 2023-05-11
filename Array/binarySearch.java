@@ -13,6 +13,7 @@ public class binarySearch {
         int target = 4;
         int ans = binarySearch(arr, target);
         System.out.println(ans);
+        System.out.println();
     }
 
     public static int binarySearch(int[] arr, int x) {
