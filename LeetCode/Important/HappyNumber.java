@@ -3,7 +3,7 @@ import java.util.Set;
 
 public class HappyNumber {
     public static void main(String[] args) {
-        System.out.println(isHappyWithoutHashmap(7));
+        System.out.println(isHappyWithoutHashmap(2));
         // 19 true
     }
 
