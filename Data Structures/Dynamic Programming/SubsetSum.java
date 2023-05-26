@@ -52,8 +52,7 @@ public class SubsetSum {
                 }
             }
         }
-        boolean result = dp[n][sum];
-        return result;
+        return dp[n][sum];
     }
 
     public static void main(String[] args) {
