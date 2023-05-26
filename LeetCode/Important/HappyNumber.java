@@ -8,7 +8,7 @@ public class HappyNumber {
     }
 
     public static boolean isHappy(int n) {
-        Set<Integer> set = new HashSet<Integer>();
+        Set<Integer> set = new HashSet<>();
         while (n != 1 && !set.contains(n)) {
             set.add(n);
             n = getNextNumber(n);

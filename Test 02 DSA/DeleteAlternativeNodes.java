@@ -52,7 +52,7 @@ public class DeleteAlternativeNodes {
         Scanner s = new Scanner(System.in);
         int data = s.nextInt();
         while (data != -1) {
-            nodeStack<Integer> newNode = new nodeStack<Integer>(data);
+            nodeStack<Integer> newNode = new nodeStack<>(data);
             if (head == null) {
                 head = newNode;
                 tail = newNode;

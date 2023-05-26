@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a57a011c-100e-49f6-b02e-9d09f0cfd452" name="Changes" comment="final">
+    <list default="true" id="a57a011c-100e-49f6-b02e-9d09f0cfd452" name="Changes" comment="Subset sum inline return">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structures/Dynamic Programming/SubsetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structures/Dynamic Programming/SubsetSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Important/HappyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Important/HappyNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test 02 DSA/DeleteAlternativeNodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test 02 DSA/DeleteAlternativeNodes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,48 +113,45 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SubsetSum">
-    <configuration name="MinimumCostPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinimumCostPath" />
-      <module name="Data Structures" />
+  <component name="RunManager" selected="Application.HappyNumber">
+    <configuration name="DeleteAlternativeNodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeleteAlternativeNodes" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumCountOfSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinimumCountOfSquares" />
-      <module name="Data Structures" />
+    <configuration name="HappyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HappyNumber" />
+      <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StairCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StairCase" />
-      <module name="Data Structures" />
+    <configuration name="InvertedNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InvertedNumber" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubsetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SubsetSum" />
-      <module name="Data Structures" />
+    <configuration name="isoscelesPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="isoscelesPattern" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="alphaPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="alphaPattern" />
+    <configuration name="oddSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oddSquare" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SubsetSum" />
-        <item itemvalue="Application.alphaPattern" />
-        <item itemvalue="Application.MinimumCostPath" />
-        <item itemvalue="Application.StairCase" />
-        <item itemvalue="Application.MinimumCountOfSquares" />
+        <item itemvalue="Application.HappyNumber" />
+        <item itemvalue="Application.DeleteAlternativeNodes" />
+        <item itemvalue="Application.InvertedNumber" />
+        <item itemvalue="Application.oddSquare" />
+        <item itemvalue="Application.isoscelesPattern" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +245,7 @@
       <workItem from="1685117004182" duration="367000" />
       <workItem from="1685117383168" duration="83000" />
       <workItem from="1685117476584" duration="1931000" />
-      <workItem from="1685130076828" duration="272000" />
+      <workItem from="1685130076828" duration="1212000" />
     </task>
     <task id="LOCAL-00001" summary="test git new laptop">
       <created>1665671204745</created>
@@ -487,7 +485,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684954125651</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Subset sum inline return">
+      <created>1685130425650</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1685130425650</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -543,7 +548,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Filename Correction" />
     <MESSAGE value="Completed PDF Folder" />
     <MESSAGE value="pdf folder modified" />
     <MESSAGE value="Tries + Priority Queue + Hashmaps Complete" />
@@ -568,7 +572,8 @@
     <MESSAGE value="workspace xml file update" />
     <MESSAGE value="test" />
     <MESSAGE value="final" />
-    <option name="LAST_COMMIT_MESSAGE" value="final" />
+    <MESSAGE value="Subset sum inline return" />
+    <option name="LAST_COMMIT_MESSAGE" value="Subset sum inline return" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
