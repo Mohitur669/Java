@@ -88,7 +88,7 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "settings.editor.selected.configurable": "terminal",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -305,6 +305,7 @@
       <workItem from="1686509835735" duration="183000" />
       <workItem from="1686512482203" duration="492000" />
       <workItem from="1686513003793" duration="565000" />
+      <workItem from="1686513580780" duration="127000" />
     </task>
     <task id="LOCAL-00001" summary="test git new laptop">
       <created>1665671204745</created>
