@@ -24,5 +24,5 @@ this [link](https://www.codingninjas.com/?referralCode=UQFSI).
 
 ## Feedback
 
-If you have any feedback, please reach out to mohitur98@gmail.com and For any changes to my code feel free to create a
+If you have any feedback, please reach out to `mohitur98@gmail.com` and For any changes to my code feel free to create a
 pull request.
