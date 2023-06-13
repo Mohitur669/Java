@@ -39,11 +39,23 @@ The only subsequence that is common to both the given strings is an empty string
 */
 public class LCS {
     public static void main(String[] args) {
-        String s = "dgeigeigeigeigeigeigeigeigei";
+        String s = "dgeigeigeigeigeigeieigeigei";
         String t = "begigeigeigaaawqgeigeiggeigeigeigei";
+
+        long startTime = System.currentTimeMillis();
         System.out.println(lcsDP(s, t));
+        long endTime = System.currentTimeMillis();
+        System.out.println("DP took " + (endTime - startTime) + " milliseconds");
+
+        startTime = System.currentTimeMillis();
         System.out.println(lcsMemoization(s, t));
+        endTime = System.currentTimeMillis();
+        System.out.println("Memoization took " + (endTime - startTime) + " milliseconds");
+
+        startTime = System.currentTimeMillis();
         System.out.println(lcsRecursive(s, t));
+        endTime = System.currentTimeMillis();
+        System.out.println("Recursion took " + (endTime - startTime) + " milliseconds");
     }
 
     public static int lcsRecursive(String s, String t) {
