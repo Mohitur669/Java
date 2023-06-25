@@ -18,7 +18,7 @@ class C1 extends B1 {
 
 class MethodOverriding1 {
     public static void main(String[] args) {
-        A1 obj = new B1();
+        C1 obj = new C1();
         obj.hello();
     }
 }

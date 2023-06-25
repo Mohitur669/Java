@@ -1,18 +1,18 @@
 class A2 {
     void hello() {
-        System.out.println("Hello from A1");
+        System.out.println("Hello from A2");
     }
 }
 
 class B2 extends A2 {
     void hello() {
-        System.out.println("Hello from В1");
+        System.out.println("Hello from В2");
     }
 }
 
 class C2 extends B2 {
     void hello() {
-        System.out.println("Hello from C1");
+        System.out.println("Hello from C2");
     }
 }
 
