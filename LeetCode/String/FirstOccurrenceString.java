@@ -1,11 +1,11 @@
-public class FirstOccurenceString {
+public class FirstOccurrenceString {
     public static void main(String[] args) {
         String haystack = "sadbutsad";
         String needle = "sad";
-        System.out.println(firstOccurence(haystack, needle));
+        System.out.println(firstOccurrence(haystack, needle));
     }
 
-    public static int firstOccurence(String haystack, String needle) {
+    public static int firstOccurrence(String haystack, String needle) {
         int n = needle.length();
         if (haystack.length() == needle.length()) {
             if (haystack.equals(needle)) {
