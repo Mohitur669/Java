@@ -45,9 +45,9 @@ public class largestColumnSum {
         int row = input.length;
         int col = input[0].length;
         System.out.println("The matrix is: ");
-        for (int i = 0; i < row; i++) {
+        for (int[] ints : input) {
             for (int j = 0; j < col; j++) {
-                System.out.print(input[i][j] + " ");
+                System.out.print(ints[j] + " ");
             }
             System.out.println();
         }

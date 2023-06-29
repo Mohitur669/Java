@@ -3,7 +3,7 @@ import java.util.Set;
 
 public class HappyNumber {
     public static void main(String[] args) {
-        System.out.println(isHappyWithoutHashmap(2));
+        System.out.println(nextHappy(13));
         // 19 true
     }
 
@@ -40,5 +40,26 @@ public class HappyNumber {
             n = n / 10;
         }
         return isHappy(sum);
+    }
+
+    static int nextHappy(int n) {
+        int original = n;
+        int inf = (int) 1e9;
+        int cNum = inf;
+        int dis = inf;
+
+        if (isHappy(n)) n++;
+
+        while (cNum == inf) {
+            if (isHappy(n)) {
+                int d = Math.abs(n - original);
+                if (d < dis) {
+                    dis = d;
+                    cNum = n;
+                }
+            }
+            n++;
+        }
+        return cNum;
     }
 }

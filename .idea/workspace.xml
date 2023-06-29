@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a57a011c-100e-49f6-b02e-9d09f0cfd452" name="Changes" comment="home">
+    <list default="true" id="a57a011c-100e-49f6-b02e-9d09f0cfd452" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Important/BrainTeasers.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Important/BrainTeasers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/String/FirstOccurenceString.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/String/FirstOccurrenceString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/BrainTeasers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/BrainTeasers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array 2D/largestColumnSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array 2D/largestColumnSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/FirstOccurenceString.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +25,7 @@
         <option value="HTML File" />
         <option value="package-info" />
         <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -89,7 +89,7 @@
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;file.status.colors&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;settings.editor.splitter.proportion&quot;: &quot;0.22790295&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
@@ -123,7 +123,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FirstOccurrenceString">
+  <component name="RunManager" selected="Application.HappyNumber">
     <configuration name="BrainTeasers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BrainTeasers" />
       <module name="LeetCode" />
@@ -145,35 +145,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting" />
-      <module name="Apna College" />
+    <configuration name="largestColumnSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="largestColumnSum" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-20" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="test1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.FirstOccurrenceString" />
-      <item itemvalue="Application.Sorting" />
-      <item itemvalue="Application.BrainTeasers" />
-      <item itemvalue="Application.HappyNumber" />
-      <item itemvalue="Application.test1" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FirstOccurrenceString" />
-        <item itemvalue="Application.BrainTeasers" />
-        <item itemvalue="Application.Sorting" />
         <item itemvalue="Application.HappyNumber" />
-        <item itemvalue="Application.test1" />
+        <item itemvalue="Application.largestColumnSum" />
+        <item itemvalue="Application.BrainTeasers" />
+        <item itemvalue="Application.FirstOccurrenceString" />
       </list>
     </recent_temporary>
   </component>
@@ -315,7 +298,11 @@
       <workItem from="1687677734464" duration="2316000" />
       <workItem from="1687692546932" duration="812000" />
       <workItem from="1687704697528" duration="7355000" />
-      <workItem from="1687827812536" duration="5923000" />
+      <workItem from="1687827812536" duration="6973000" />
+      <workItem from="1687840673913" duration="8131000" />
+      <workItem from="1687886862458" duration="4861000" />
+      <workItem from="1687961073844" duration="1800000" />
+      <workItem from="1688014375824" duration="1408000" />
     </task>
     <task id="LOCAL-00001" summary="test git new laptop">
       <created>1665671204745</created>
@@ -613,7 +600,15 @@
       <option name="project" value="LOCAL" />
       <updated>1687830736981</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="final java">
+      <option name="closed" value="true" />
+      <created>1687837852235</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1687837852235</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -670,7 +665,6 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="OOPS 4" />
     <MESSAGE value="Backtracking + DSA Complete" />
     <MESSAGE value="Update readme.md" />
     <MESSAGE value="modify insertion sort" />
@@ -695,7 +689,8 @@
     <MESSAGE value="new ssh test" />
     <MESSAGE value="BrainTeasers" />
     <MESSAGE value="home" />
-    <option name="LAST_COMMIT_MESSAGE" value="home" />
+    <MESSAGE value="final java" />
+    <option name="LAST_COMMIT_MESSAGE" value="final java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
