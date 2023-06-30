@@ -6,6 +6,16 @@ public class BrainTeasers {
 //        }
         int[] arr = {2, 3, 4, 5, 1, 6};
         System.out.println(binarySearch(arr, 6));
+        System.out.println("Found in index: " + linearSearch(arr, 6));
+    }
+
+    public static int linearSearch(int[] arr, int target) {
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] == target) {
+                return i;
+            }
+        }
+        return -1;
     }
 
     public static boolean binarySearch(int[] arr, int target) {
