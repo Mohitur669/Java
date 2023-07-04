@@ -9,11 +9,11 @@ public class BuyAndSellStocks {
         int op = 0;
         int pist = 0;
 
-        for (int i = 0; i < prices.length; i++) {
-            if (prices[i] < lsf) {
-                lsf = prices[i];
+        for (int price : prices) {
+            if (price < lsf) {
+                lsf = price;
             }
-            pist = prices[i] - lsf;
+            pist = price - lsf;
             if (op < pist) {
                 op = pist;
             }
