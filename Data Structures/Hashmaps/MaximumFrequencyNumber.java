@@ -39,8 +39,7 @@ public class MaximumFrequencyNumber {
     public static int maximumFrequencyNumber(int[] arr) {
         HashMap<Integer, Integer> countMap = new HashMap<>();
 
-        for (int i = 0; i < arr.length; i++) {
-            int ele = arr[i];
+        for (int ele : arr) {
             if (countMap.containsKey(ele)) {
                 countMap.put(ele, countMap.get(ele) + 1);
             } else {
@@ -49,10 +48,10 @@ public class MaximumFrequencyNumber {
 
         }
         int maxCount = Integer.MIN_VALUE, maxEle = arr[0];
-        for (int i = 0; i < arr.length; i++) {
-            if (countMap.get(arr[i]) > maxCount) {
-                maxCount = countMap.get(arr[i]);
-                maxEle = arr[i];
+        for (int ele : arr) {
+            if (countMap.get(ele) > maxCount) {
+                maxCount = countMap.get(ele);
+                maxEle = ele;
             }
         }
         return maxEle;
