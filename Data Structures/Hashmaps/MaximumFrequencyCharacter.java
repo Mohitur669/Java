@@ -1,4 +1,4 @@
-/* Maximum Frequency Character in a String */
+/* Maximum Frequency of a Character in a String */
 
 import java.util.HashMap;
 import java.util.Map;
