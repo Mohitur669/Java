@@ -8,15 +8,8 @@ public class LinearSearch {
     }
 
     static boolean linear_search(int[] arr, int target) {
-        if (arr.length == 0) {
-            return false;
-        }
-        for (int index = 0; index < arr.length; index++) {
-            int check = arr[index];
+        for (int check : arr) {
             if (target == check) {
-//                int temp = arr[index];
-//                arr[index] = arr[0];
-//                arr[0] = temp;
                 return true;
             }
         }
