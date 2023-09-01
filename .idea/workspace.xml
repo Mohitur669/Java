@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a57a011c-100e-49f6-b02e-9d09f0cfd452" name="Changes" comment="move to acer">
+    <list default="true" id="a57a011c-100e-49f6-b02e-9d09f0cfd452" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Coding Ninjas/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Ninjas/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Self Practice/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Self Practice/LinearSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Apna College/TransitionPoint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures 2/mohitur.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LinearSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LinearSearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,15 +36,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;author&quot;: &quot;Mohitur669&quot;
+    }
+  ],
   &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;author&quot;: &quot;Mohitur669&quot;
   }
 }</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="ef6ff032-e61c-4303-a43c-944d9fb6ba0a" />
-        <option name="url" value="git@github.com:Mohitur669/Java.git" />
+        <option name="url" value="https://github.com/Mohitur669/Java.git" />
       </UrlAndAccount>
     </option>
   </component>
@@ -77,40 +79,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/My Study/Java - TDD&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
-    &quot;settings.editor.splitter.proportion&quot;: &quot;0.22790295&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "20",
+    "last_opened_file_path": "D:/My Study/Java - TDD",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.splitter.proportion": "0.22790295",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;bigquery&quot;,
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "bigquery",
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
@@ -135,7 +137,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LinearSearch">
+  <component name="RunManager" selected="Application.test">
     <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="20" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -145,7 +147,7 @@
       </method>
     </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="20" />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-20" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="test" />
       <method v="2">
@@ -154,8 +156,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LinearSearch" />
         <item itemvalue="Application.test" />
+        <item itemvalue="Application.LinearSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -403,6 +405,16 @@
       <workItem from="1692614756727" duration="1261000" />
       <workItem from="1692716802373" duration="593000" />
       <workItem from="1692800328226" duration="594000" />
+      <workItem from="1693425266021" duration="223000" />
+      <workItem from="1693425606144" duration="643000" />
+      <workItem from="1693428601940" duration="489000" />
+      <workItem from="1693474834717" duration="120000" />
+      <workItem from="1693487128444" duration="104000" />
+      <workItem from="1693487245348" duration="39000" />
+      <workItem from="1693487541809" duration="17000" />
+      <workItem from="1693487596392" duration="30000" />
+      <workItem from="1693492758997" duration="2646000" />
+      <workItem from="1693574072535" duration="2148000" />
     </task>
     <task id="LOCAL-00001" summary="test git new laptop">
       <created>1665671204745</created>

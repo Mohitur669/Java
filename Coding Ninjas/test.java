@@ -1,6 +1,11 @@
-// this is a testing code
 public class test {
     public static void main(String[] args) {
+        int[] arr = {1, 2, 3, 4};
+        System.out.println(binarySearch(arr, 3));
+        populationYearCount();
+    }
+
+    public static void populationYearCount() {
         long population = 1500000000;
         long mobileUsers;
         int year = 1;
@@ -22,5 +27,21 @@ public class test {
             count++;
         }
         return count;
+    }
+
+    public static int binarySearch(int[] arr, int target) {
+        int start = 0;
+        int end = arr.length - 1;
+        while (start <= end) {
+            int mid = (start + end) / 2;
+            if (arr[mid] == target) {
+                return mid;
+            } else if (arr[mid] > target) {
+                end = mid - 1;
+            } else {
+                start = mid + 1;
+            }
+        }
+        return -1;
     }
 }
