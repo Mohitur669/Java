@@ -2,10 +2,10 @@ public class test {
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4};
         System.out.println(binarySearch(arr, 3));
-        populationYearCount();
+        System.out.println(populationYearCount());
     }
 
-    public static void populationYearCount() {
+    public static int populationYearCount() {
         long population = 1500000000;
         long mobileUsers;
         int year = 1;
@@ -17,7 +17,7 @@ public class test {
             }
             year++;
         }
-        System.out.println(year);
+        return year;
     }
 
     public static int digit(long mobileUsers) {
