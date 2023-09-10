@@ -6,7 +6,7 @@ public class checkPermutation {
     }
 
     public static boolean isPermutation(String str1, String str2) {
-        if (str1.length() == 0 || str2.length() == 0) {
+        if (str1.isEmpty() || str2.isEmpty()) {
             return false;
         }
         if (str1.length() != str2.length()) {
@@ -18,10 +18,7 @@ public class checkPermutation {
             stringSum1 = stringSum1 + str1.charAt(i);
             stringSum2 = stringSum2 + str2.charAt(i);
         }
-        if (stringSum1 == stringSum2) {
-            return true;
-        }
-        return false;
+        return stringSum1 == stringSum2;
     }
 
     //  Coding Ninjas Solution --> Counting the frequency of a character
