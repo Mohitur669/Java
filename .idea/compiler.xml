@@ -9,6 +9,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="JavaInterviewPrep" target="20" />
       <module name="LeetCode" target="19" />
     </bytecodeTargetLevel>
   </component>
