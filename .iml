@@ -18,6 +18,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Test 02" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Test 02 DSA" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Testing Codes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Interview" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Interview Prep" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

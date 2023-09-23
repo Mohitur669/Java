@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <annotationProcessing>
-      <profile name="Maven default annotation processors profile" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-      </profile>
-    </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Interview" target="20" />
+      <module name="Interview.main" target="20" />
+      <module name="Interview.test" target="20" />
       <module name="JavaInterviewPrep" target="20" />
       <module name="LeetCode" target="19" />
     </bytecodeTargetLevel>
