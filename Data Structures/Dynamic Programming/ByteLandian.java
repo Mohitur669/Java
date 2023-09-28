@@ -41,7 +41,7 @@ public class ByteLandian {
     public static void main(String[] args) {
         HashMap<Long, Long> hm = new HashMap<>();
         int n = 12;
-        System.out.println(byteLandianDP(12, hm));
+        System.out.println(byteLandianDP(n, hm));
     }
 
     public static long byteLandianDP(long n, HashMap<Long, Long> memo) {
