@@ -4,10 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a57a011c-100e-49f6-b02e-9d09f0cfd452" name="Changes" comment="class files upload">
-      <change afterPath="$PROJECT_DIR$/Testing Codes/mohitur.java" afterDir="false" />
+    <list default="true" id="a57a011c-100e-49f6-b02e-9d09f0cfd452" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Apna College/ArrayList/ContainerWithMostWater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data Structures/ByteLandian.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structures/ByteLandian.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apna College/Apna College.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Apna College/Apna College.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing Codes/randomTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Testing Codes/randomTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Apna College/Complex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Apna College/Complex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Apna College/DiagonalSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Apna College/DiagonalSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Apna College/FirstOccurenceInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Apna College/FirstOccurenceInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Apna College/Fraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Apna College/Fraction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Apna College/LargestString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Apna College/LargestString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Apna College/LastOccurenceInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Apna College/LastOccurenceInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Apna College/LinkedListUse$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Apna College/LinkedListUse$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Apna College/LinkedListUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Apna College/LinkedListUse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Apna College/MaxSubArraySum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Apna College/MaxSubArraySum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Apna College/SearchInSortedMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Apna College/SearchInSortedMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Apna College/ShortestPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Apna College/ShortestPath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Apna College/SortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Apna College/SortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Apna College/Sorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Apna College/Sorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Apna College/SpiralMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Apna College/SpiralMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Apna College/StringPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Apna College/StringPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mohitur.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mohitur.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/randomTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/randomTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +58,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="package-info" />
         <option value="Kotlin Class" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="TypeScript File" />
         <option value="Class" />
       </list>
     </option>
@@ -97,40 +117,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;JDK21&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/My Study/Java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.19959474&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
-    &quot;settings.editor.splitter.proportion&quot;: &quot;0.17791899&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "JDK21",
+    "last_opened_file_path": "D:/My Study/Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.19959474",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.splitter.proportion": "0.17791899",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2023.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;bigquery&quot;,
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "bigquery",
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
@@ -143,11 +164,11 @@
       <recent name="C:\Users\KIIT\Desktop\Java\Data Structures\Binary Tree" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\My Study\Java\Kunal-Data-Structure\Binary Search" />
       <recent name="D:\My Study\Java\LeetCode\Important" />
       <recent name="D:\My Study\Java\Classwork\Random" />
       <recent name="D:\My Study\Java\ApnaCollege" />
       <recent name="D:\My Study\Java" />
-      <recent name="C:\Users\KIIT\Desktop\Java\Data Structures\Linked List" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -156,48 +177,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.mohitur">
-    <configuration name="ByteLandian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ByteLandian" />
-      <module name="Data Structures" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Knapsack01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Knapsack01" />
-      <module name="Data Structures" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestLeetcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestLeetcode" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="binary2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binary2D" />
-      <module name="Algorithms" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="mohitur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mohitur" />
+  <component name="RunManager">
+    <configuration name="randomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="randomTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.mohitur" />
-        <item itemvalue="Application.Knapsack01" />
-        <item itemvalue="Application.binary2D" />
-        <item itemvalue="Application.ByteLandian" />
-        <item itemvalue="Application.TestLeetcode" />
+        <item itemvalue="Application.randomTest" />
       </list>
     </recent_temporary>
   </component>
@@ -479,7 +468,27 @@
       <workItem from="1695757542188" duration="1809000" />
       <workItem from="1695823913154" duration="4924000" />
       <workItem from="1695928765634" duration="76000" />
-      <workItem from="1695928872145" duration="13540000" />
+      <workItem from="1695928872145" duration="23198000" />
+      <workItem from="1696539279192" duration="853000" />
+      <workItem from="1696540150909" duration="19769000" />
+      <workItem from="1696699740426" duration="4117000" />
+      <workItem from="1696838362424" duration="628000" />
+      <workItem from="1696843344068" duration="5645000" />
+      <workItem from="1696870039979" duration="13780000" />
+      <workItem from="1696968558443" duration="3441000" />
+      <workItem from="1696975660142" duration="22000" />
+      <workItem from="1696975706901" duration="4405000" />
+      <workItem from="1697039030341" duration="5054000" />
+      <workItem from="1697128333444" duration="50000" />
+      <workItem from="1697128410699" duration="9712000" />
+      <workItem from="1697206261598" duration="25091000" />
+      <workItem from="1697453303202" duration="3580000" />
+      <workItem from="1697484966548" duration="28000" />
+      <workItem from="1697498816950" duration="1136000" />
+      <workItem from="1697655133821" duration="2350000" />
+      <workItem from="1697748994024" duration="5289000" />
+      <workItem from="1698320282269" duration="3658000" />
+      <workItem from="1698489983040" duration="7537000" />
     </task>
     <task id="LOCAL-00001" summary="test git new laptop">
       <created>1665671204745</created>
@@ -761,14 +770,6 @@
       <option name="project" value="LOCAL" />
       <updated>1687092642350</updated>
     </task>
-    <task id="LOCAL-00048" summary="array AC">
-      <option name="closed" value="true" />
-      <created>1690743144257</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1690743144257</updated>
-    </task>
     <task id="LOCAL-00049" summary="max Frequency">
       <option name="closed" value="true" />
       <created>1690998676774</created>
@@ -833,7 +834,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695937644334</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="testing code mohitur.java">
+      <option name="closed" value="true" />
+      <created>1696248459500</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1696248459500</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -890,7 +899,6 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="test windows ssh key" />
     <MESSAGE value="workspace xml file update" />
     <MESSAGE value="test" />
     <MESSAGE value="final" />
@@ -915,7 +923,8 @@
     <MESSAGE value="testing code for online coding problems" />
     <MESSAGE value="fix" />
     <MESSAGE value="class files upload" />
-    <option name="LAST_COMMIT_MESSAGE" value="class files upload" />
+    <MESSAGE value="testing code mohitur.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing code mohitur.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
