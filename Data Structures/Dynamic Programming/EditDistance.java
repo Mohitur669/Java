@@ -27,10 +27,10 @@ Sample Output 1 :
 
 public class EditDistance {
     public static int editDistanceRecursive(String s, String t) {
-        if (s.length() == 0) {
+        if (s.isEmpty()) {
             return t.length();
         }
-        if (t.length() == 0) {
+        if (t.isEmpty()) {
             return s.length();
         }
         if (s.charAt(0) == t.charAt(0)) {

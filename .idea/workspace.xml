@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a57a011c-100e-49f6-b02e-9d09f0cfd452" name="Changes" comment="written all sorting methods into same class">
-      <change afterPath="$PROJECT_DIR$/Data Structures/Maths/Factor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Structures/Maths/GCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Structures/Maths/LCM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Structures/Maths/Prime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Structures/Maths/SquareRoot.java" afterDir="false" />
+    <list default="true" id="a57a011c-100e-49f6-b02e-9d09f0cfd452" name="Changes" comment="Math for DSA">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structures/Data Structures.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structures/Data Structures.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Git Cheatsheet.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testing Codes/randomTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Testing Codes/randomTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/Dynamic Programming/EditDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structures/Dynamic Programming/EditDistance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +120,7 @@
     "project.structure.proportion": "0.19959474",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
     "settings.editor.splitter.proportion": "0.17791899",
     "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2023.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
@@ -164,7 +157,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GCD">
+  <component name="RunManager">
     <configuration name="Factor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Factor" />
       <module name="Data Structures" />
@@ -172,41 +165,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GCD" />
-      <module name="Data Structures" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KLargestElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KLargestElements" />
-      <module name="Data Structures" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LCM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LCM" />
-      <module name="Data Structures" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SquareRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SquareRoot" />
-      <module name="Data Structures" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GCD" />
-        <item itemvalue="Application.LCM" />
         <item itemvalue="Application.Factor" />
-        <item itemvalue="Application.KLargestElements" />
-        <item itemvalue="Application.SquareRoot" />
       </list>
     </recent_temporary>
   </component>
@@ -509,7 +470,7 @@
       <workItem from="1697748994024" duration="5289000" />
       <workItem from="1698320282269" duration="3658000" />
       <workItem from="1698489983040" duration="7537000" />
-      <workItem from="1698510366520" duration="18976000" />
+      <workItem from="1698510366520" duration="28725000" />
     </task>
     <task id="LOCAL-00001" summary="test git new laptop">
       <created>1665671204745</created>
@@ -791,14 +752,6 @@
       <option name="project" value="LOCAL" />
       <updated>1687092642350</updated>
     </task>
-    <task id="LOCAL-00051" summary="move to acer">
-      <option name="closed" value="true" />
-      <created>1691428645911</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1691428645911</updated>
-    </task>
     <task id="LOCAL-00052" summary="random practice">
       <option name="closed" value="true" />
       <created>1693589874462</created>
@@ -863,7 +816,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698526455128</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Math for DSA">
+      <option name="closed" value="true" />
+      <created>1698610418666</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1698610418667</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -920,7 +881,6 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="final" />
     <MESSAGE value="Subset sum inline return" />
     <MESSAGE value="End sem codes" />
     <MESSAGE value="ssh success" />
@@ -945,7 +905,8 @@
     <MESSAGE value="testing code mohitur.java" />
     <MESSAGE value="my testing" />
     <MESSAGE value="written all sorting methods into same class" />
-    <option name="LAST_COMMIT_MESSAGE" value="written all sorting methods into same class" />
+    <MESSAGE value="Math for DSA" />
+    <option name="LAST_COMMIT_MESSAGE" value="Math for DSA" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
