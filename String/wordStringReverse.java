@@ -8,7 +8,7 @@ public class wordStringReverse {
     }
 
     public static String reverseWordWise(String input) {
-        if (input.length() == 0) {
+        if (input.isEmpty()) {
             return "";
         }
         int n = input.length();
