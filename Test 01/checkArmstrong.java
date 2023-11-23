@@ -40,13 +40,9 @@ public class checkArmstrong {
         }
         int sum = 0;
         while (n > 0) {
-            sum += (Math.pow(n % 10, length));
+            sum += (int) Math.pow(n % 10, length);
             n /= 10;
         }
-        if (originalNumber == sum) {
-            System.out.println(true);
-        } else {
-            System.out.println(false);
-        }
+        System.out.println(originalNumber == sum);
     }
 }
