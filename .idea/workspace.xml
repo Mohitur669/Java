@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a57a011c-100e-49f6-b02e-9d09f0cfd452" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode/Important/TCSMedium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test 01/checkArmstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test 01/checkArmstrong.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +101,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.arrangeNumber.executor&quot;: &quot;Run&quot;,
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -110,6 +112,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;JDK21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/mohitur/Documents/My Study/Java&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -157,10 +160,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.checkArmstrong">
+  <component name="RunManager" selected="Application.arrangeNumber">
     <configuration name="NQueen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NQueen" />
       <module name="Data Structures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arrangeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrangeNumber" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -173,10 +182,18 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.arrangeNumber" />
         <item itemvalue="Application.checkArmstrong" />
         <item itemvalue="Application.NQueen" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-76dd8dae" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -510,6 +527,13 @@
       <workItem from="1700730327837" duration="48000" />
       <workItem from="1700730407415" duration="669000" />
       <workItem from="1700736120269" duration="609000" />
+      <workItem from="1705055677412" duration="13000" />
+      <workItem from="1705056283466" duration="133000" />
+      <workItem from="1705056429237" duration="361000" />
+      <workItem from="1705082987685" duration="232000" />
+      <workItem from="1705334895630" duration="273000" />
+      <workItem from="1705335213745" duration="740000" />
+      <workItem from="1705335974681" duration="845000" />
     </task>
     <task id="LOCAL-00001" summary="test git new laptop">
       <created>1665671204745</created>
