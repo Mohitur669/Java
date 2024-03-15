@@ -4,6 +4,7 @@ import java.util.Set;
 public class HappyNumber {
     public static void main(String[] args) {
         System.out.println(nextHappy(13));
+        System.out.println(isHappyWithoutHashmap(19));
         // 19 true
     }
 
