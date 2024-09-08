@@ -11,7 +11,7 @@ public class returnSubSequence {
 
     public static String[] findSubSequence(String str) {
         // base case
-        if (str.length() == 0) {
+        if (str.isEmpty()) {
             String[] ans = {""};
             return ans;
         }

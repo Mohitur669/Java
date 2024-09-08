@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a57a011c-100e-49f6-b02e-9d09f0cfd452" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/checkAB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/checkAB.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +103,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.HappyNumber.executor": "Run",
     "Application.arrangeNumber.executor": "Run",
+    "Application.countZeroes.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -112,7 +115,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "JDK21",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/mohitur/Documents/My Study/Java",
+    "last_opened_file_path": "D:/D Drive/My Study/Java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -122,7 +125,7 @@
     "project.structure.proportion": "0.19959474",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Font",
     "settings.editor.splitter.proportion": "0.17791899",
     "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2023.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
@@ -159,17 +162,10 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HappyNumber">
+  <component name="RunManager" selected="Application.boundaryDiagonalTotalSum">
     <configuration name="HappyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HappyNumber" />
       <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NQueen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NQueen" />
-      <module name="Data Structures" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -180,25 +176,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="checkArmstrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="checkArmstrong" />
+    <configuration name="boundaryDiagonalTotalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boundaryDiagonalTotalSum" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ceilingOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ceilingOfNumber" />
+      <module name="Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="countZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="countZeroes" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.boundaryDiagonalTotalSum" />
+        <item itemvalue="Application.ceilingOfNumber" />
+        <item itemvalue="Application.countZeroes" />
         <item itemvalue="Application.HappyNumber" />
         <item itemvalue="Application.arrangeNumber" />
-        <item itemvalue="Application.checkArmstrong" />
-        <item itemvalue="Application.NQueen" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-78a6f59c" />
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
       </set>
     </attachedChunks>
   </component>
@@ -544,6 +555,8 @@
       <workItem from="1709491408996" duration="308000" />
       <workItem from="1709491730626" duration="114000" />
       <workItem from="1710515176876" duration="172000" />
+      <workItem from="1725798641643" duration="52000" />
+      <workItem from="1725798745750" duration="1242000" />
     </task>
     <task id="LOCAL-00001" summary="test git new laptop">
       <created>1665671204745</created>

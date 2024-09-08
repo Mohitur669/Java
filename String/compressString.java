@@ -7,7 +7,7 @@ public class compressString {
     }
 
     public static String getCompressedString(String str) {
-        if (str.length() == 0) {
+        if (str.isEmpty()) {
             return str;
         }
         int count = 1;

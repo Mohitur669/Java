@@ -5,7 +5,7 @@ public class highestOccuringCharacter {
     }
 
     public static char highestOccurringChar(String str) {
-        if (str.length() == 0) {
+        if (str.isEmpty()) {
             return ' ';
         }
         int[] frequency = new int[256]; // Automatically all elements initialized to 0, don't need to re-initialize

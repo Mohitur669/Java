@@ -37,7 +37,7 @@ public class checkAB {
 
     public static boolean checkAB(String input) {
         // base case
-        if (input.length() == 0) {
+        if (input.isEmpty()) {
             return true;
         }
 
@@ -45,7 +45,7 @@ public class checkAB {
             return false;
         }
 
-        if (input.length() >= 3 && input.substring(0, 3).equals("abb")) {
+        if (input.startsWith("abb")) {
             return checkAB(input.substring(3));
         } else {
             return checkAB(input.substring(1));

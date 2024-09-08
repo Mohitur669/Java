@@ -9,7 +9,7 @@ public class linearSearchString {
     }
 
     static boolean search(String str, char ch) {
-        if (str.length() == 0) {
+        if (str.isEmpty()) {
             return false;
         }
         for (int index = 0; index < str.length(); index++) {
@@ -20,25 +20,26 @@ public class linearSearchString {
         return false;
     }
 
-    static char search2(String str, char ch){
-        if (str.length()==0){
+    static char search2(String str, char ch) {
+        if (str.isEmpty()) {
             return 'i';
         }
         for (int index = 0; index < str.length(); index++) {
             char target = str.charAt(index);
-            if (ch == str.charAt(index)){
+            if (ch == str.charAt(index)) {
                 return target;
             }
         }
         return 'i';
     }
-    static int search3(String str, char ch){
-        if (str.length()==0){
+
+    static int search3(String str, char ch) {
+        if (str.isEmpty()) {
             return -1;
         }
         for (int index = 0; index < str.length(); index++) {
             char target = str.charAt(index);
-            if (ch == str.charAt(index)){
+            if (ch == str.charAt(index)) {
                 return index;
             }
         }

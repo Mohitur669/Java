@@ -12,7 +12,7 @@ public class searchInString {
 
     //    checking a character is present in string or not
     static boolean search(String str, char target) {
-        if (str.length() == 0) {
+        if (str.isEmpty()) {
             return false;
         }
         for (int index = 0; index < str.length(); index++) {
@@ -25,7 +25,7 @@ public class searchInString {
 
     //    using for each loop
     static boolean search2(String str, char target) {
-        if (str.length() == 0) {
+        if (str.isEmpty()) {
             return false;
         }
         for (char ch : str.toCharArray()) {
