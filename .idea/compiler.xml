@@ -2,11 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="Interview" target="20" />
-      <module name="Interview.main" target="20" />
-      <module name="Interview.test" target="20" />
-      <module name="JavaInterviewPrep" target="20" />
-      <module name="LeetCode" target="19" />
+      <module name="Interview" target="21" />
+      <module name="LeetCode" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>

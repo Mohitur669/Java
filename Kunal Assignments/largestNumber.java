@@ -5,11 +5,12 @@ public class largestNumber {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         int num, max = 0;
-        while ((num = s.nextInt()) !=0) {
-            if(num>max){
+        while ((num = s.nextInt()) != 0) {
+            if (num > max) {
                 max = num;
             }
         }
-        System.out.println("The largest number among the inputs is: "+ max);
+        System.out.println("The largest number among the inputs is: " + max);
+
     }
 }

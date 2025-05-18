@@ -49,7 +49,6 @@ Hence, the new list formed with an updated head pointing to 90.
 
 import java.util.Scanner;
 
-public class appendLastNToFirst {
     public static void main(String[] args) {
         node<Integer> head = takeInput();
         print(head);
